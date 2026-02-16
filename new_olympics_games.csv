@@ -1,0 +1,6 @@
+edition,edition_id,Country,NOC,number_of_athletes,gold_medal_count,silver_medal_count,bronze_medal_count,total_medals
+Alice,25,New York,NOC FOR ALICE,6,2,6,8,16
+Bob,30,London,NOC FOR BOB,6,3,4,7,14
+Charlie,35,Paris,NOC FOR Charlie,5,3,8,2,13
+David,28,Paris,NOC FOR DAVID,7,2,9,3,14
+Eve,32,Tokyo,NOC FOR EVE,6,2,6,8,16
