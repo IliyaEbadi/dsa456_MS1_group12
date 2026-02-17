@@ -8,7 +8,7 @@ Muhammad Kumail Haider
 
 James Kelsey
   - Started on ms1Prototype.
-  - Added the create_csv to the prototype
+  - Added the create_csv to the prototype.
   - Tested create_csv and updated accordingly.
 
   
