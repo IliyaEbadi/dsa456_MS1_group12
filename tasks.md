@@ -7,8 +7,8 @@ Muhammad Kumail Haider
 - Tested prototype execution in Codespaces
 
 James Kelsey
--Started on ms1Prototype.
--Added the create_csv to the prototype
--Tested create_csv and updated accordingly.
+  - Started on ms1Prototype.
+  - Added the create_csv to the prototype
+  - Tested create_csv and updated accordingly.
 
   
