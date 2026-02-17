@@ -15,3 +15,8 @@ Shamim Hossain Srabon
   - Tested ms1Prototype on local machine
   - Verified all 5 output CSV files are generated correctly
   - Confirmed prototype execution works as expected
+
+Iliya Ebadi
+- Worked on prototype function planning and structure
+- Reviewed output CSV formatting for consistency
+- Assisted in verifying prototype file generation
