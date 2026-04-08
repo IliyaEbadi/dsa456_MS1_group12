@@ -7,4 +7,14 @@ We have created a  create_csv class with Filename, header, and data as the param
       - Example, if you used a dictionary, what is the key?  what did it give you?  what was the cost of using it? How fast is it to find the information that you need? etc.
       
 Data structures used are built-in Python lists. This is hushed by creating an object similar to an array and placing all your data in it. For example: all_data = [ ['Alice', 25, 'New York', 'NOC FOR ALICE', '6', '2', '6', '8', '16'], ['Bob', 30, 'London', 'NOC FOR BOB', '6', '3', '4', '7', '14'],] headers = ['edition', 'edition_id', 'Country', 'NOC', ...] These are the main built-in Python Lists we used. This was chosen so that our code will be simple, maintain the exact column order, and have CSV compatibility. The second data structure used is a nested List. This is used to set the rows in the data provided. For example: data_p = [row for row in mydata]. This creates an easy-to-visualize way to show how the code writes rows and accesses the data. The third data structure used in our code is String. This is used to store data in one parameter, such as a header or data_p, making it easier to code using the writer function.
+ - Using the following variables in your description of data size data size:
+    - let n represent the number of records in the olympic_athlete_events_results file
+    - let a represent the number of records in the olympic_athlete_bio file
+    - let p represent the number of records in the paris athletes file
+    - let e represent the number of records in the paris events file
+    - let m represent the number of records in the paris medallists file.
+    - Analyze the following:
+      - runtime to clean all data
+      - runtime needed to add paris data into the records 
+      - runtime needed to generate the medal results for all games
 
