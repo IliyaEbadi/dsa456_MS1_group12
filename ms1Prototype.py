@@ -13,7 +13,7 @@ def cleanParisData(mydata):
     Returns:
         Cleaned dataset (not implemented in MS1)
     """
-    data_p = [row for row in mydata]  # simple copy for prototype
+    data_p = mydata[:]   # simple copy for prototype
 
     # Header required for medal tally file (exact order as specified)
     headers = [
